@@ -15,6 +15,7 @@ printf ("NIM [%d][%d][%d] = ",i,j,k) ;
 scanf("%i%j%k",&NIM[i][j][k]) ;
 	 }
 	 printf ("\n") ;
+	
 }
 }
 }
